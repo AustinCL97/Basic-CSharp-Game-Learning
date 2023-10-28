@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -30,6 +31,30 @@ namespace WPFUI
             _gameSesson = new GameSession();
 
             DataContext = _gameSesson;
+
+        
         }
+
+        private void OnClick_MoveNorth(object sender, RoutedEventArgs e)
+        {
+            _gameSesson.MoveNorth();
+        }
+
+        private void OnClick_MoveEast(object sender, RoutedEventArgs e)
+        {
+            _gameSesson.MoveEast();
+        }
+
+        private void OnClick_MoveWest(object sender, RoutedEventArgs e)
+        {
+            _gameSesson.MoveWest();
+        }
+
+        private void OnClick_MoveSouth(object sender, RoutedEventArgs e)
+        {
+            _gameSesson.MoveSouth();
+        }
+
+    
     }
 }
