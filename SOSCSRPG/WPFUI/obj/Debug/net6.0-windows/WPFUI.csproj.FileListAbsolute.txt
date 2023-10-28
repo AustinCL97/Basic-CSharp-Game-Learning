@@ -18,3 +18,7 @@ C:\Users\acloc_000\workspace\Basic-CSharp-Game-Learning\SOSCSRPG\WPFUI\obj\Debug
 C:\Users\acloc_000\workspace\Basic-CSharp-Game-Learning\SOSCSRPG\WPFUI\obj\Debug\net6.0-windows\WPFUI.pdb
 C:\Users\acloc_000\workspace\Basic-CSharp-Game-Learning\SOSCSRPG\WPFUI\obj\Debug\net6.0-windows\WPFUI.genruntimeconfig.cache
 C:\Users\acloc_000\workspace\Basic-CSharp-Game-Learning\SOSCSRPG\WPFUI\obj\Debug\net6.0-windows\ref\WPFUI.dll
+C:\Users\acloc_000\workspace\Basic-CSharp-Game-Learning\SOSCSRPG\WPFUI\bin\Debug\net6.0-windows\Engine.dll
+C:\Users\acloc_000\workspace\Basic-CSharp-Game-Learning\SOSCSRPG\WPFUI\bin\Debug\net6.0-windows\Engine.pdb
+C:\Users\acloc_000\workspace\Basic-CSharp-Game-Learning\SOSCSRPG\WPFUI\obj\Debug\net6.0-windows\WPFUI.csproj.AssemblyReference.cache
+C:\Users\acloc_000\workspace\Basic-CSharp-Game-Learning\SOSCSRPG\WPFUI\obj\Debug\net6.0-windows\WPFUI.csproj.CopyComplete
