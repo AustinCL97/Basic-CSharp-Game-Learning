@@ -9,3 +9,4 @@ C:\Users\acloc_000\workspace\Basic-CSharp-Game-Learning\SOSCSRPG\Engine\obj\Debu
 C:\Users\acloc_000\workspace\Basic-CSharp-Game-Learning\SOSCSRPG\Engine\obj\Debug\net6.0\refint\Engine.dll
 C:\Users\acloc_000\workspace\Basic-CSharp-Game-Learning\SOSCSRPG\Engine\obj\Debug\net6.0\Engine.pdb
 C:\Users\acloc_000\workspace\Basic-CSharp-Game-Learning\SOSCSRPG\Engine\obj\Debug\net6.0\ref\Engine.dll
+C:\Users\acloc_000\workspace\Basic-CSharp-Game-Learning\SOSCSRPG\Engine\obj\Debug\net6.0\Engine.g.resources
